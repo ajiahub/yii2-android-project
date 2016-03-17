@@ -1,0 +1,21 @@
+{
+    "name": "android-rest-project/yii2-android-project",
+    "description": "yii2 android restful project for you",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","android","rest"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "chinahub",
+            "email": "allenfrancis@foxmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "android\\rest\\": ""
+        }
+    }
+}
